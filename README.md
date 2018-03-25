@@ -1,6 +1,4 @@
-                                                       COMPUTER SCIENCE ENGINEERING
-
-------------------------------------------------------------------------------------------------------------------------------------------
+COMPUTER SCIENCE ENGINEERING
 
 
 1.Algorithms
@@ -13,3 +11,10 @@
 8.Computer Networks
 9.Theory Of Computation
 10.Mathematics
+
+
+
+
+
+
+
