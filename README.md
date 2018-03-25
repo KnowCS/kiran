@@ -49,3 +49,6 @@ b.Combinational Circuits
   b9.Read Only Memory
 
 
+LOGIC GATES
+
+In Boolean Algebra there are three basic operations "+,.,'" Which are analogous to disjunction,conjunction,negation in propositional logic.Each operations has Digital logic gate apart from these their are a few logical gates as well
