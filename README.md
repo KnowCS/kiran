@@ -49,6 +49,12 @@ b.Combinational Circuits
   b9.Read Only Memory
 
 
-LOGIC GATES
+a1.LOGIC GATES Preparation
 
 In Boolean Algebra there are three basic operations "+,.,'" Which are analogous to disjunction,conjunction,negation in propositional logic.Each operations has Digital logic gate apart from these their are a few logical gates as well
+
+Logic Gates
+------------
+
+  1.AND gate(.) - The AND gate gives an output 1,if both the two inputs are 1,its gives 0 otherwise
+  2.OR gate(+) - The OR gate gives an output 1,if either of the two inputs are 1,its gives 0 otherwise
