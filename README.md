@@ -58,3 +58,22 @@ Logic Gates
 
   1.AND gate(.) - The AND gate gives an output 1,if both the two inputs are 1,its gives 0 otherwise
   2.OR gate(+) - The OR gate gives an output 1,if either of the two inputs are 1,its gives 0 otherwise
+  
+  ------------------------------------------
+  
+  26-03-2018
+  
+  
+ Today's Subject
+ ===============
+ 
+ 
+ Operating Systems
+ -----------------
+ 
+ 1.Processes,threads,CPU scheduling
+ 2.Inter-Process Communication,Concurrency and Synchronization
+ 3.Deadlock
+ 4.Main Memory Management
+ 5.Virtual Memory
+ 6.File System and Disk Scheduling
